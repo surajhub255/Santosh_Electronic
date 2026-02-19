@@ -12,6 +12,7 @@ import {
   Wrench,
   ShoppingBag
 } from 'lucide-react';
+import React from 'react';
 
 export function Services() {
   const repairServices = [
