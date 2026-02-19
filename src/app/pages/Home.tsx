@@ -1,4 +1,5 @@
 import { Link } from 'react-router';
+import React from 'react';
 import { Wrench, ShoppingBag, Clock, MapPin, Phone, Star } from 'lucide-react';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 

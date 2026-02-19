@@ -1,6 +1,7 @@
 import { Outlet, Link, useLocation } from 'react-router';
 import { Phone, MapPin, Clock, Menu, X } from 'lucide-react';
 import { useState } from 'react';
+import React from 'react';
 
 export function Layout() {
   const location = useLocation();
