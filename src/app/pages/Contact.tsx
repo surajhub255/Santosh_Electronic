@@ -248,7 +248,7 @@ export function Contact() {
             className="inline-flex items-center gap-2 bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg text-xl font-bold transition-colors"
           >
             <Phone className="w-6 h-6" />
-            095468 16990
+            9546816990
           </a>
         </div>
       </section>
